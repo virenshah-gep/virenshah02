@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @virenshah02
+- 👋 Hi, I’m @virenshah-gep
 - 👀 I’m interested in ML , Data science and development.
 - 🌱 I’m currently learning Angular and dotnet core.
 - 💞️ I’m looking to collaborate on exciting projects.
